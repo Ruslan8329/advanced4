@@ -1,0 +1,55 @@
+.traffic-light {
+  background-color: black;
+  width: 200px;
+  height: 50px;
+  display: flex;
+}
+
+.color1 {
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.color2 {
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.color3 {
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.nextButton {
+  width: 50px;
+  height: 50px;
+}
+
+.books {
+  background-color: blanchedalmond;
+  width: 500px;
+}
+
+.book1 {
+  background-color: blanchedalmond;
+}
+.book2 {
+  background-color: blanchedalmond;
+}
+.book3 {
+  background-color: blanchedalmond;
+}
+
+.tooltip {
+  position: fixed;
+}
+
+.btnn {
+  margin-top: 50px;
+}
